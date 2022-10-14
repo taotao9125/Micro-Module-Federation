@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as t}from"./app.2f1b71c0.js";const A=JSON.parse('{"title":"\u751F\u547D\u5468\u671F","description":"","frontmatter":{},"headers":[],"relativePath":"guide/lifecycle.md","lastUpdated":null}'),o={name:"guide/lifecycle.md"},l=t("",4),p=[l];function e(c,r,d,D,y,F){return a(),n("div",null,p)}const C=s(o,[["render",e]]);export{A as __pageData,C as default};
